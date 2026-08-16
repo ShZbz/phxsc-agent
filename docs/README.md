@@ -24,6 +24,12 @@
 | `investigate` | 全功能：下载/解析/总结/笔记 | "下载这篇并总结存笔记" |
 | `typeset` | 文档生成：笔记 Markdown → PPTX/PDF | "把 notes/xx.md 做成 PPT" |
 
+### 界面预览
+
+<div align="center">
+  <img src="../assets/screenshot-plan.png" alt="PhySc-agent TUI (plan mode)" width="100%"/>
+</div>
+
 ### 差异化卖点
 
 1. **引用溯源闸门**（请求级触发）：输出后 LLM 校验每个论断是否有 evidence 支撑（source_id + 页码 + 原文片段），无证据论断列出警告——对抗学术幻觉
