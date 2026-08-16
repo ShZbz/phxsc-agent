@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/phxsc-banner.png" alt="PhySc agent" width="100%"/>
+</div>
+
 # PhySc-agent
 
 > A local-first academic agent for physics & materials science research — literature search, paper reading, note-taking, and document generation, with every claim traceable to a source page number.
