@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.venv/
+
+# 环境与密钥（绝不提交）
+.env
+.env.local
+*.pem
+
+# 运行时数据（沙箱工作目录 + 数据库 + 用户会话）
+workspace/
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# 测试缓存
+.pytest_cache/
+.coverage
+htmlcov/
+
+# 编辑器 / 系统
+.DS_Store
+.idea/
+.vscode/
+*.swp
