@@ -30,7 +30,7 @@
   <img src="assets/screenshot-plan.png" alt="PhySc-agent TUI (plan mode)" width="100%"/>
 </div>
 
-### 差异化卖点
+### 差异化
 
 1. **引用溯源闸门**（请求级触发）：输出后 LLM 校验每个论断是否有 evidence 支撑（source_id + 页码 + 原文片段），无证据论断列出警告——对抗学术幻觉
 2. **定向阅读三段式**：论文总结强制"贡献 / 与你的关系 / 可改进点"，读论文 = 服务你的研究方向
