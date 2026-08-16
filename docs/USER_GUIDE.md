@@ -300,7 +300,7 @@ workspace/embed_cache.db # query 向量缓存
 
 ---
 
-遇到问题可以看 `docs/PROJECT_STATUS.md`（项目状态）和 `PLAN.md`（技术设计）。
+遇到问题可以看 `docs/ARCHITECTURE.md`（架构设计）和 `docs/CHANGELOG.md`（版本演进）。
 
 ---
 
@@ -377,4 +377,4 @@ TUI 渲染逻辑由 Pilot 测试全覆盖；**真实终端交互（键盘/滚动
 
 ---
 
-遇到问题可以看 `docs/PROJECT_STATUS.md`（项目状态）和 `PLAN.md`（技术设计）。
+遇到问题可以看 `docs/ARCHITECTURE.md`（架构设计）和 `docs/CHANGELOG.md`（版本演进）。
